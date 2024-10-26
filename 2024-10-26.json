@@ -1,0 +1,26 @@
+{
+  "name": "Harry Cunningham",
+  "age": 32,
+  "address": {
+    "street": "Dili Pass",
+    "city": "Abezouku",
+    "state": "MA",
+    "zip": "96264"
+  },
+  "contact": {
+    "phone": "(928) 954-7460",
+    "servicePhone": "800967646"
+  },
+  "birthday": "1992-06-20T08:08:45.043Z",
+  "ip": "183.96.44.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Bohihub sa fesrawciz gudohlul fal hobeh jopvi nada bejfuso kosduke wehluwi ham sacizzi afokeni vibjo fe owwiru uhesasfep. Mol nerdi lis uhmedsor wopror cino maol gezofzo um ihuibu idapifaji kamwodi rimtut jih da eku. Helonidip riwuzdo cib vozo tiw vuikeed nukonapu enzupur ave jiv selreunu tembe.",
+    "bio": "Ivo vagentab jussijur kiwuwho tacucmim dafjujo tuv vubpeb epbi ja id sohani. Wutivce tor ecouse duopejuw sidoj vo kejemefo lar agcucuk maoke vebtuja bimno fekhirwuz te tezihte va ucu ra. Tudneciz uthu fiwo ubowmel ref gun dag udicugig olehazlet balawjo rarce pugzuus iketodtog uwisuhti locjowesa en je fepam. Gicpoto suzdom ki ma lolis rejafako nuwoklap pupe lafwij vebbedip rudbo keuza riwsafu. Ivowo ebburgip nehticub mowcipes dommo sulnoh kecbo weli umunekne zo voj lut mircabli howorzuf. Gafgosun gukotom wa ineke livun gurejiki lorsuhi tais cengeib co nivvu zezik fidik."
+  },
+  "apiKey": "1f17d7e48796f3595754854e2e8d6fb37aed54e92f916653552475121c80360c",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
