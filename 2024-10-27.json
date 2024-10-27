@@ -1,0 +1,26 @@
+{
+  "name": "Gerald Keller",
+  "age": 60,
+  "address": {
+    "street": "Paja Place",
+    "city": "Noreflow",
+    "state": "ME",
+    "zip": "80134"
+  },
+  "contact": {
+    "phone": "(959) 698-6031",
+    "servicePhone": "800548687"
+  },
+  "birthday": "1961-10-17T04:04:48.083Z",
+  "ip": "227.132.90.206",
+  "foo": "bar",
+  "profile": {
+    "about": "Ted belowazeh medekfaj dap af jo vu binoaj ajo wo li mafuwelek uronigpa rakegfe duvoddi zudovuron. Ibagohja setseb suivwu van rezuzecih ceb edfib unudeuro kuefoera tieni jenid fe sirsa ilu ipfecso. Agaano cece afveef hiznawmes ok iwuni uvzijuj tu kutonig viv ofo nal imarapgah. Wehuf na cicekgi tilzu bowhad wipevmi ivelasu fovmeme zedevas karure uj va retma uppisi.",
+    "bio": "Gulwu nakifek ibien atbiv nohit nos dassomes naboba iwo nuhkatpa ugutej mu cavik gi ba ritekusas. Hefasap jiutsa bip fur badhewil ulovudda fiac sovwuz nezeg ehoken hirfoldi savdetcig zumurdu fiahodin ban hukutut zutot lidgorag. Tiflog lomti jacivahe conteco cifuzhic wukvoma ofize wogape cizoguwo jurfewo mu res he."
+  },
+  "apiKey": "c1ddb63aa26f7426b822bd51a6e7d249b6ec5da94bc3074a05803a0c68e02305",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
