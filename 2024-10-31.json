@@ -1,0 +1,26 @@
+{
+  "name": "Jerry Moody",
+  "age": 19,
+  "address": {
+    "street": "Cepmob Park",
+    "city": "Datasdib",
+    "state": "GA",
+    "zip": "37419"
+  },
+  "contact": {
+    "phone": "(636) 287-5500",
+    "servicePhone": "800668354"
+  },
+  "birthday": "1996-09-19T04:53:02.547Z",
+  "ip": "156.127.166.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Faaf gik vafiz cajce waci aruha suz menehe gag faowa un ujope itjun li. Wilur wite vopahag mevomta zig edewili azez gemu mihlamtim fufoj rogutep karhodda. Dawboz wodaf wa hufi liv cu po waf sov nuor fumosar um bo hocpin duketu uhfahjat.",
+    "bio": "Nurawbiw furogdew sewir no len ugufonvif duf lojuhad ko aduvusnig za cegi kinihi si. Kozneij kovarniz zazab gealo reca rerkijuz denu guc fiz putusir memuce doifnat. Wabusid ci cusgosjas wufjo zapok luun robjefa zunci gawzumah lah is ma."
+  },
+  "apiKey": "3d2653113f43846c5d46f0d27cb36bda21eb60494e7bab1f0cd9e68ffa2403da",
+  "currency": {
+    "code": "DOP",
+    "name": "Dominican Republic Peso"
+  }
+}
