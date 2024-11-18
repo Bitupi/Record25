@@ -1,0 +1,26 @@
+{
+  "name": "Seth Cortez",
+  "age": 55,
+  "address": {
+    "street": "Tiwaw Glen",
+    "city": "Copejig",
+    "state": "DC",
+    "zip": "75786"
+  },
+  "contact": {
+    "phone": "(655) 652-2896",
+    "servicePhone": "800825954"
+  },
+  "birthday": "1981-04-25T02:53:10.914Z",
+  "ip": "157.47.135.89",
+  "foo": "bar",
+  "profile": {
+    "about": "As ivicim pesa wi ce laztal ge wibuziil ferefcem waftarma esiped ugoviv ozi kow urnus. Nitti sebeiko vepac uj zunosfe ug pu uleokoegu wofmuf ejmen etfor ir rafja. Sigiavi zoerubat zo okevud vag okhuw degowe ita jog giwuf cokvemo pupudor umi ekdu we bi. Jo naibri gavutcup hib umpus rove laivo moptac cefufuh ino bejedij jituc cibaga fabnu avuner og jipja nel. Emazir najezub cuwdaha dubwe edbocrot ip pephoco uzcuc valu dip rimeja dufakli. Ecnekmij kad el lipcure lo difku ganu lamato igazos pesoz puvinu det. Vi naz heridfoh tol daslof ohnimbec cipbaek ahesogu vusme wenbavzo buhaj rubighop.",
+    "bio": "Kivovu kibfizpav jazoet bivviszas honefnu tivvu kupa pakzen gar uduuw lal nehpokun cirpi evwageb uhe mussa rikgir metku. Varaf revazfe ku ku evzucip udo cis kol cama epidumi oda tatik matce zicovuv lek buwsotuz hifesuz za. Nutu wade vo be duopu opuus dut dadojwuf tezeno rabfup pe beplala dojbajut wov."
+  },
+  "apiKey": "dadf5bc0fbc23e5d144af71fcbeb023e9e99b463b1b5f687dee42cd4af04b6ea",
+  "currency": {
+    "code": "JPY",
+    "name": "Japan Yen"
+  }
+}
