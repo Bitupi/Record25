@@ -1,0 +1,26 @@
+{
+  "name": "Jorge Parks",
+  "age": 40,
+  "address": {
+    "street": "Iblas Point",
+    "city": "Rannisil",
+    "state": "RI",
+    "zip": "68934"
+  },
+  "contact": {
+    "phone": "(780) 971-9539",
+    "servicePhone": "800596657"
+  },
+  "birthday": "1974-08-31T01:07:51.245Z",
+  "ip": "194.34.32.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Naro loga evulis tarizaku osi zak gi rodrodre urgez naf azovu jonkewmo wos ze piwwow. Iwa kiveve teceke net amjakli paca fa puza napuppe kokror hivo tejzuk su. Zuga ne fikpose za ga tene pu roc kedevem gu fi fuwa caguca melekucu zaibo agjobzop furmiud.",
+    "bio": "Duvu koj avot paod niuho ha ezanaha nilcajez ug ebdit mi ze. Icu mem davgorik veziv fi jah zosezeg mun rolame rul ejazalus onset zitavse tedmopcaw gommo wehjunged cimor. Zin kipeg hohow nowu hocot ulke rigpif sasjav ko muw onosaeb bum ro ma ehzimaj va. Pulvozla hojiz bufronta asora conmo rot ebotuji diwuhtuf efeso cum kahhib ja hi ra."
+  },
+  "apiKey": "17bea4064ccdfe9c92bcc4952349e3cf6ba75cccf8c647bfb61de5566fd0f765",
+  "currency": {
+    "code": "TOP",
+    "name": "Tonga Pa'anga"
+  }
+}
