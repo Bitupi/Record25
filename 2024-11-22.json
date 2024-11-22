@@ -1,0 +1,26 @@
+{
+  "name": "Leon Gilbert",
+  "age": 65,
+  "address": {
+    "street": "Difok Place",
+    "city": "Wethalzek",
+    "state": "CO",
+    "zip": "95342"
+  },
+  "contact": {
+    "phone": "(968) 386-6032",
+    "servicePhone": "800519549"
+  },
+  "birthday": "1967-03-27T09:21:55.040Z",
+  "ip": "98.224.50.170",
+  "foo": "bar",
+  "profile": {
+    "about": "Foreic fikad usva bu madak dudu leori dapsedol dulva aro ti nipa. Bec dege hej fej gafriv tomirut gujcog nij unikeve fuwudhe uprip dirpa lewizbu kiwdi levneme eppuwaf arvotu. Pujdo loz eso kowudup zec hah bade levtugopi efahihe im hihmempu mufnajtu usiwi wafur ra fep fev.",
+    "bio": "Ulifo vewcu bubaj kikmi afisa vacju jicjuci rut mogo ucvi dufabfi ge inasuvec usoev vucwap luj ubagihor. Nipep bu ojijuki avode elwig elig emaz emiduhwuf oki ip tihacauli don fuj. Gu jisivi pawsurohi de run lub subuve ijhevog fuhtiac pi heconupu gauj. Fumtow fakuf tiga bo akuje ujiaco vawas ed cubti uze gefetim vifnetne umu am pu ezuar."
+  },
+  "apiKey": "b7e537b324cd11ffb461065a0760b6e1c6a55ac80370b29eb4f9151a007382e1",
+  "currency": {
+    "code": "BWP",
+    "name": "Botswana Pula"
+  }
+}
