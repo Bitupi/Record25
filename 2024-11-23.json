@@ -1,0 +1,26 @@
+{
+  "name": "Danny Reynolds",
+  "age": 34,
+  "address": {
+    "street": "Jefas Path",
+    "city": "Pogerwe",
+    "state": "WA",
+    "zip": "25034"
+  },
+  "contact": {
+    "phone": "(915) 524-5744",
+    "servicePhone": "800413332"
+  },
+  "birthday": "2005-02-11T05:54:56.752Z",
+  "ip": "238.216.137.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Pi ewviw hihi rof pegemgi kemitzu vuvnamteb uma roumwaz nozajso pupgehrek vifeefe fikdu avo ovviccuj lun se. Jo jipaeri ikaujuop pif coj lumdingi cuc puz biz vagjali ugwat sutseiba ofeuji. Nivuh feci newode duhtiawo watoz omumur faocmo hi par gez loibufi joga makedzub tudbalo nuawusik ka puwecgis usufe. Tewub nacanur vacuc pelunonul zu penufic wisu omzo uba bipfucjo sag ju woc ilku ervogelo dakosaz. Ufohiro jupev ocafimok di pev badwo tasto uf ac ilbe pulaav dizavut altaufe fij abmir.",
+    "bio": "Dubfezsuv manwavad wubuuha edi top mij jik rerore safur wid izozul fis fadri etfav. Covlu ase bu buwore zufkovav jimipwip go ugajodih ubfisdet su cigure sa oba cub. Loimjaf eremof ahamal daw cu jit avaop bu haadelep tonogmi zipza tohtipu. Do odiva kimrucowe henadil unsod wa rarfob zilan itifamu safdeico al jel ceznocud si. Owaunde luzo mes zusdebez ceoduacu epu ruwa catfib doga lionewa vagagpi iziokokup nikiuro luj cuj ritcovug ipu. Akiculul zeoze pegojoga wi kupo ece pemi hucjuib lij finuvize cagkem vifedit ikobec vavsuget eho wumip. Hodurjon aczos setuw liritun sekzoam dat munug nurgorbus tampis ohaah acudakzap bugaj deenegoh wimew uja kah."
+  },
+  "apiKey": "8577703f64db42d017bbf59b11aa8f5663711f22ef13e3bf47a1e017b5d9cada",
+  "currency": {
+    "code": "BBD",
+    "name": "Barbados Dollar"
+  }
+}
