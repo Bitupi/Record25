@@ -1,0 +1,26 @@
+{
+  "name": "Ada Carlson",
+  "age": 38,
+  "address": {
+    "street": "Gummo Point",
+    "city": "Rilerin",
+    "state": "VT",
+    "zip": "96651"
+  },
+  "contact": {
+    "phone": "(971) 424-8284",
+    "servicePhone": "800424296"
+  },
+  "birthday": "1968-09-05T08:40:10.803Z",
+  "ip": "105.51.142.71",
+  "foo": "bar",
+  "profile": {
+    "about": "Nug sokdevre zet agfafo litli ipula uf lofo noh daszaw ze mej jogkojgi faunle to zizwo. Lina za cotikuz rugojsu ki zucunvib ri dim muzdur dij mut hivjiuve timkeluj munozlun. Lodis ahof fossu jefwos oteuw lukizuh ho notet ha hikagelud pi nuer balko fegzu inedimpam fipfogehi cu. Nik irvi lajonet baludsu fi acdu fehpi veh zu mo laksur zopilkod muz tepgigi kowuwoz ahkaliw wo ib. Nuugfu hubepcog envuhfok iscih zi za jekcuok zem mosoele de luzej fe ot. Jefa puosca ce he co ir rol cutesovo nodijet diepdeg rofka wen. Basade tedemiw gopjis ir juzmus zulakeki asori umeen papsu ig se ermuef fogo lelzam pu.",
+    "bio": "Zo ful azwoskuc henafda mafabvad af fu hofpef idalep ohtoh buvamow wefcin curzam bizcajra. Jormatizu hod gitoz gugno litsilimu luhnam darheebu bi ni herob weitaga piadiro vop ji siwsi siwiv umipo ijdat. Seb juchume em nu vo hul bahe tuvawol kesukte banmotan konguk ipko wu wiiw."
+  },
+  "apiKey": "27c90ff37051a6cc8bc64f0d317385e23c3f5c7ecdbd1fab6d75b69213380312",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
